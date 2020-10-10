@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: beverages-d-b
+  labels:
+    app: beverages-b
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: beverages-b
+  template:
+    metadata:
+      labels:
+        app: beverages-b
+    spec:
+      containers:
+        - name: backend
+          image: jnamr/soa-k8s-backend:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 9999
+          resources:
+            limits:
+              cpu: 0.1
+              memory: "400Mi"
