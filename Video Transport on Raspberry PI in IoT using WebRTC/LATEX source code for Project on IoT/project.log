@@ -1,0 +1,2757 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.14)  28 OCT 2020 22:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**project.tex
+(./project.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+** ATTENTION: Single column mode is not typically used with IEEE publications.
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+) (../meta/config/commands.tex (../meta/config/language.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count182
+\U@D=\dimen158
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count183
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 121.
+))))
+(./config/metainfo.tex) (../meta/config/packages.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count184
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count185
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count186
+\calc@Bcount=\count187
+\calc@Adimen=\dimen159
+\calc@Bdimen=\dimen160
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count188
+\calc@Cskip=\skip52
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen161
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen162
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen163
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip16
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks22
+\row@=\count198
+\column@=\count199
+Normal \count register pool exhausted, switching to extended pool.
+\maxfields@=\count277
+\andhelp@=\toks23
+\eqnshift@=\dimen164
+\alignsep@=\dimen165
+\tagshift@=\dimen166
+\tagwidth@=\dimen167
+\totwidth@=\dimen168
+\lineht@=\dimen169
+\@envbody=\toks24
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count278
+\l_MT_multwidth_dim=\dimen170
+\origjot=\skip56
+\l_MT_shortvdotswithinadjustabove_dim=\dimen171
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen172
+\l_MT_above_intertext_sep=\dimen173
+\l_MT_below_intertext_sep=\dimen174
+\l_MT_above_shortintertext_sep=\dimen175
+\l_MT_below_shortintertext_sep=\dimen176
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen177
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/polynom/polynom.sty
+Package: polynom 2017/07/17 0.19 (CH,HA)
+\pld@currstage=\count279
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks32
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip60
+\L@UnitsRaiseTextstyle=\skip61
+\L@UnitsRaiseScriptstyle=\skip62
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+LaTeX Info: Redefining \nicefrac on input line 131.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/carlisle/ltxtable.sty
+Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box50
+\extrarowheight=\dimen179
+\NC@list=\toks33
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen180
+\TX@old@table=\dimen181
+\TX@old@col=\dimen182
+\TX@target=\dimen183
+\TX@delta=\dimen184
+\TX@cols=\count280
+\TX@ftn=\toks34
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count281
+\LTcapwidth=\dimen185
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count282
+\LT@rows=\count283
+\c@LT@tables=\count284
+\c@LT@chunks=\count285
+\LT@p@ftn=\toks35
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip69
+\RaggedLeftLeftskip=\skip70
+\RaggedRightLeftskip=\skip71
+\CenteringRightskip=\skip72
+\RaggedLeftRightskip=\skip73
+\RaggedRightRightskip=\skip74
+\CenteringParfillskip=\skip75
+\RaggedLeftParfillskip=\skip76
+\RaggedRightParfillskip=\skip77
+\JustifyingParfillskip=\skip78
+\CenteringParindent=\skip79
+\RaggedLeftParindent=\skip80
+\RaggedRightParindent=\skip81
+\JustifyingParindent=\skip82
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks36
+\minrowclearance=\skip83
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count286
+\mult@box=\box56
+\multicol@leftmargin=\dimen186
+\c@unbalance=\count287
+\c@collectmore=\count288
+\doublecol@number=\count289
+\multicoltolerance=\count290
+\multicolpretolerance=\count291
+\full@width=\dimen187
+\page@free=\dimen188
+\premulticols=\dimen189
+\postmulticols=\dimen190
+\multicolsep=\skip84
+\multicolbaselineskip=\skip85
+\partial@page=\box57
+\last@line=\box58
+\maxbalancingoverflow=\dimen191
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@gfirstbox=\box61
+\mult@firstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count292
+\c@columnbadness=\count293
+\c@finalcolumnbadness=\count294
+\last@try=\dimen192
+\multicolovershoot=\dimen193
+\multicolundershoot=\dimen194
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count295
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip86
+\multirow@cntb=\count296
+\multirow@dima=\skip87
+\bigstrutjot=\dimen195
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen196
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count300
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen197
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen198
+\Fld@charsize=\dimen199
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip88
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip89
+\bibsep=\skip90
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count307
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count308
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks39
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgfutil@tempdima=\dimen256
+\pgfutil@tempdimb=\dimen257
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box102
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen258
+\Gin@req@width=\dimen259
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen260
+\pgf@y=\dimen261
+\pgf@xa=\dimen262
+\pgf@ya=\dimen263
+\pgf@xb=\dimen264
+\pgf@yb=\dimen265
+\pgf@xc=\dimen266
+\pgf@yc=\dimen267
+\pgf@xd=\dimen268
+\pgf@yd=\dimen269
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count309
+\c@pgf@countb=\count310
+\c@pgf@countc=\count311
+\c@pgf@countd=\count312
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count313
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count314
+\pgfsyssoftpath@bigbuffer@items=\count315
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen270
+\pgfmath@count=\count316
+\pgfmath@box=\box103
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count317
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen271
+\pgf@picmaxx=\dimen272
+\pgf@picminy=\dimen273
+\pgf@picmaxy=\dimen274
+\pgf@pathminx=\dimen275
+\pgf@pathmaxx=\dimen276
+\pgf@pathminy=\dimen277
+\pgf@pathmaxy=\dimen278
+\pgf@xx=\dimen279
+\pgf@xy=\dimen280
+\pgf@yx=\dimen281
+\pgf@yy=\dimen282
+\pgf@zx=\dimen283
+\pgf@zy=\dimen284
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen285
+\pgf@path@lasty=\dimen286
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen287
+\pgf@shorten@start@additional=\dimen288
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box104
+\pgf@hbox=\box105
+\pgf@layerbox@main=\box106
+\pgf@picture@serial@count=\count318
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen289
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen290
+\pgf@pt@y=\dimen291
+\pgf@pt@temp=\dimen292
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen293
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen294
+\pgf@sys@shading@range@num=\count319
+\pgf@shadingcount=\count320
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box107
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box108
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen295
+\pgf@nodesepend=\dimen296
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen297
+\pgffor@skip=\dimen298
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count321
+\pgfplotmarksize=\dimen299
+)
+\tikz@lastx=\dimen300
+\tikz@lasty=\dimen301
+\tikz@lastxsaved=\dimen302
+\tikz@lastysaved=\dimen303
+\tikz@lastmovetox=\dimen304
+\tikz@lastmovetoy=\dimen305
+\tikzleveldistance=\dimen306
+\tikzsiblingdistance=\dimen307
+\tikz@figbox=\box109
+\tikz@figbox@bg=\box110
+\tikz@tempbox=\box111
+\tikz@tempbox@bg=\box112
+\tikztreelevel=\count322
+\tikznumberofchildren=\count323
+\tikznumberofcurrentchild=\count324
+\tikz@fig@count=\count325
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count326
+\pgfmatrixcurrentcolumn=\count327
+\pgf@matrix@numberofcolumns=\count328
+)
+\tikz@expandcount=\count329
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+\c@@todonotes@numberoftodonotes=\count330
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen308
+\captionmargin@=\dimen309
+\captionwidth=\dimen310
+\caption@tempdima=\dimen311
+\caption@indent=\dimen312
+\caption@parindent=\dimen313
+\caption@hangindent=\dimen314
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1082.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count331
+\c@continuedfloat=\count332
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
+\c@KVtest=\count333
+\sf@farskip=\skip91
+\sf@captopadj=\dimen315
+\sf@capskip=\skip92
+\sf@nearskip=\skip93
+\c@subfigure=\count334
+\c@subfigure@save=\count335
+\c@lofdepth=\count336
+\c@subtable=\count337
+\c@subtable@save=\count338
+\c@lotdepth=\count339
+\sf@top=\skip94
+\sf@bottom=\skip95
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count340
+\float@exts=\toks51
+\float@box=\box113
+\@float@everytoks=\toks52
+\@floatcapt=\box114
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks53
+\t@pgfplots@tokb=\toks54
+\t@pgfplots@tokc=\toks55
+\pgfplots@tmpa=\dimen316
+\c@pgfplots@coordindex=\count341
+\c@pgfplots@scanlineindex=\count342
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count343
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count344
+\t@pgfplotstable@a=\toks56
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count345
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen317
+\pgfdecoratedremainingdistance=\dimen318
+\pgfdecoratedinputsegmentcompleteddistance=\dimen319
+\pgfdecoratedinputsegmentremainingdistance=\dimen320
+\pgf@decorate@distancetomove=\dimen321
+\pgf@decorate@repeatstate=\count346
+\pgfdecorationsegmentamplitude=\dimen322
+\pgfdecorationsegmentlength=\dimen323
+)
+\tikz@lib@dec@box=\box115
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count347
+\pgfplots@xmin@reg=\dimen324
+\pgfplots@xmax@reg=\dimen325
+\pgfplots@ymin@reg=\dimen326
+\pgfplots@ymax@reg=\dimen327
+\pgfplots@zmin@reg=\dimen328
+\pgfplots@zmax@reg=\dimen329
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen330
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryintersections.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryinterse
+ctions.code.tex
+\pgf@intersect@solutions=\count348
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@layerbox@background=\box116
+\pgf@layerboxsaved@background=\box117
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.text.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box118
+)
+\tikz@lib@dec@te@box=\box119
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.markings.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.markings.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.shapes.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.shapes.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.callouts.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.callouts.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box120
+\pgfnodeparttwobox=\box121
+\pgfnodepartthreebox=\box122
+\pgfnodepartfourbox=\box123
+\pgfnodeparttwentybox=\box124
+\pgfnodepartnineteenbox=\box125
+\pgfnodeparteighteenbox=\box126
+\pgfnodepartseventeenbox=\box127
+\pgfnodepartsixteenbox=\box128
+\pgfnodepartfifteenbox=\box129
+\pgfnodepartfourteenbox=\box130
+\pgfnodepartthirteenbox=\box131
+\pgfnodeparttwelvebox=\box132
+\pgfnodepartelevenbox=\box133
+\pgfnodeparttenbox=\box134
+\pgfnodepartninebox=\box135
+\pgfnodeparteightbox=\box136
+\pgfnodepartsevenbox=\box137
+\pgfnodepartsixbox=\box138
+\pgfnodepartfivebox=\box139
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
+s.code.tex
+File: pgflibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks57
+\verbatim@line=\toks58
+\verbatim@in@stream=\read4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count349
+\tab@size=\count350
+\listing@line=\count351
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks59
+\c@algorithm=\count352
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count353
+\c@ALG@rem=\count354
+\c@ALG@nested=\count355
+\ALG@tlm=\skip96
+\ALG@thistlm=\skip97
+\c@ALG@Lnr=\count356
+\c@ALG@blocknr=\count357
+\c@ALG@storecount=\count358
+\c@ALG@tmpcounter=\count359
+\ALG@tmplength=\skip98
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2020/03/01 v5.4 Nomenclature package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2020/01/24 v3.29 KOMA-Script package (handling toc-files)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip99
+\scr@dte@tocline@numbox=\box140
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 179.
+Package tocbasic Info: setting babel extension for `nls' on input line 180.
+\nomlabelwidth=\dimen331
+\nom@tempdim=\dimen332
+\nomitemsep=\skip100
+)
+\@nomenclaturefile=\write4
+\openout4 = `project.nlo'.
+
+Package nomencl Info: Writing nomenclature file project.nlo on input line 92.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box141
+\UL@hyphenbox=\box142
+\UL@skip=\skip101
+\UL@hook=\toks60
+\UL@height=\dimen333
+\UL@pe=\count360
+\UL@pixel=\dimen334
+\ULC@box=\box143
+Package: ulem 2019/11/18
+\ULdepth=\dimen335
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip102
+\f@nch@O@elh=\skip103
+\f@nch@O@erh=\skip104
+\f@nch@O@olh=\skip105
+\f@nch@O@orh=\skip106
+\f@nch@O@elf=\skip107
+\f@nch@O@erf=\skip108
+\f@nch@O@olf=\skip109
+\f@nch@O@orf=\skip110
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count361
+\lst@gtempboxa=\box144
+\lst@token=\toks61
+\lst@length=\count362
+\lst@currlwidth=\dimen336
+\lst@column=\count363
+\lst@pos=\count364
+\lst@lostspace=\dimen337
+\lst@width=\dimen338
+\lst@newlines=\count365
+\lst@lineno=\count366
+\lst@maxwidth=\dimen339
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count367
+\lst@skipnumbers=\count368
+\lst@framebox=\box145
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fourier.sty
+Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+futs on input line 1
+12.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2020/03/03 2.2 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> FML/futmi/m/it on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> FML/futmi/m/it on input line 72.
+\symotherletters=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 74.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+27.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 127
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 14
+3.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+44.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 164
+.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 168.
+
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 200.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 223.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 228.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 230.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 232.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 234.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 236.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 238.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 240.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 242.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 244.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 246.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 248.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 250.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 252.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 254.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 256.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 260.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 261.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 262.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 263.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 264.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 265.
+LaTeX Font Info:    Redeclaring math accent \check on input line 266.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 267.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 268.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
+\symUfutm=\mathgroup9
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/menukeys/menukeys.sty
+Package: menukeys 2016/08/08 v1.5 -- A package to format menus, paths and short
+cuts
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count369
+\l__pdf_internal_box=\box146
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count370
+\g__xparse_grabber_int=\count371
+\l__xparse_m_args_int=\count372
+\l__xparse_v_nesting_int=\count373
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count374
+\decimalpart=\count375
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count376
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box147
+)
+\tc@llx=\dimen340
+\tc@lly=\dimen341
+\tc@urx=\dimen342
+\tc@ury=\dimen343
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen344
+\adjbox@Height=\dimen345
+\adjbox@Depth=\dimen346
+\adjbox@Totalheight=\dimen347
+\adjbox@pwidth=\dimen348
+\adjbox@pheight=\dimen349
+\adjbox@pdepth=\dimen350
+\adjbox@ptotalheight=\dimen351
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count377
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box148
+\sift@deathcycles=\count378
+\@vwid@loff=\dimen352
+\@vwid@roff=\dimen353
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/catoptions/catoptions.sty
+\m@one=\count379
+\z@pt=\dimen354
+Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
+M)
+\cpt@csvdepth=\count380
+\cpt@optdepth=\count381
+\cpt@cnta=\count382
+\indrisdepth=\count383
+\cpt@foreachdepth=\count384
+\cpt@exprcnt=\count385
+)
+\c@tw@hyphen@char@num=\count386
+)
+(../meta/config/unibaColors.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 47.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 47.
+\c@saveenumi=\count387
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 2
+81.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+))
+(../meta/config/hyphenation.tex) (./project.aux (./content/section.aux)
+(./content/section1.aux) (./content/section2.aux) (./content/section3.aux)
+(./content/section4.aux) (./content/section5.aux)
+
+LaTeX Warning: Label `fig:bp14' multiply defined.
+
+)
+\openout1 = `project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 29.
+LaTeX Font Info:    Trying to load font information for FML+futm on input line 
+29.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
+File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
+)
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 29.
+LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
+29.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmsfutm.fd
+File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
+)
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 29.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
+29.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 29.
+
+-- Lines per column: 51 (approximate, difference = 7.08954pt).
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count388
+\scratchdimen=\dimen355
+\scratchbox=\box149
+\nofMPsegments=\count389
+\nofMParguments=\count390
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen356
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
+\everyMPtoPDFconversion=\toks63
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 29.
+\AtBeginShipoutBox=\box150
+Package hyperref Info: Link coloring OFF on input line 29.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count394
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+ (./project.out) (./project.out)
+\@outlinefile=\write5
+\openout5 = `project.out'.
+
+ ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 29.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
+
+\c@lstlisting=\count395
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 29.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 29.
+LaTeX Font Info:    Trying to load font information for FML+futmi on input line
+ 39.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
+)
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 39.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 39.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 39.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 39
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 39
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 39.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 39.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 39.
+<../meta/config/images/logo.png, id=171, 426.59375pt x 426.59375pt>
+File: ../meta/config/images/logo.png Graphic file (type png)
+<use ../meta/config/images/logo.png>
+Package pdftex.def Info: ../meta/config/images/logo.png  used on input line 39.
+
+(pdftex.def)             Requested size: 79.66718pt x 79.66771pt.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [0{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../
+meta/config/images/logo.png>] (./project.toc [2])
+\tf@toc=\write6
+\openout6 = `project.toc'.
+
+ [3] (./project.lof [4])
+\tf@lof=\write7
+\openout7 = `project.lof'.
+
+ [5] (./project.lot)
+\tf@lot=\write8
+\openout8 = `project.lot'.
+
+
+[6] (./project.lol)
+\tf@lol=\write9
+\openout9 = `project.lol'.
+
+ [7] (./project.nls)
+\openout2 = `content/section.aux'.
+
+ (./content/section.tex
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 3.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 3.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 3.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 3.
+) [1
+
+]
+\openout2 = `content/section1.aux'.
+
+
+(./content/section1.tex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)) [2
+
+
+]
+\openout2 = `content/section2.aux'.
+
+
+(./content/section2.tex [3
+
+
+] [4] [5]) [6]
+\openout2 = `content/section3.aux'.
+
+ (./content/section3.tex
+<images/archi.png, id=455, 632.3625pt x 395.4775pt>
+File: images/archi.png Graphic file (type png)
+<use images/archi.png>
+Package pdftex.def Info: images/archi.png  used on input line 10.
+(pdftex.def)             Requested size: 455.24408pt x 284.71341pt.
+ [7
+
+
+ <./images/archi.png>]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 28.
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
+30.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+<images/cAdvisor.png, id=464, 1445.4pt x 903.375pt>
+File: images/cAdvisor.png Graphic file (type png)
+<use images/cAdvisor.png>
+Package pdftex.def Info: images/cAdvisor.png  used on input line 46.
+(pdftex.def)             Requested size: 455.24408pt x 284.52328pt.
+
+[8 <./images/cAdvisor.png>]
+<images/PrometheusUI.png, id=485, 1445.4pt x 584.68437pt>
+File: images/PrometheusUI.png Graphic file (type png)
+<use images/PrometheusUI.png>
+Package pdftex.def Info: images/PrometheusUI.png  used on input line 98.
+(pdftex.def)             Requested size: 455.24408pt x 184.14978pt.
+ [9]
+
+./content/section3.tex:105: Package Listings Error: Couldn't load requested sty
+le.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+\GenericError  ...                                
+                                                  \endgroup 
+\lst@Require ...s may cause errors in the sequel.}
+                                                  \aftergroup \lst@false \fi...
+
+\lst@LAS ...4#5#6#7->\lst@Require {#1}{#2}{#3}#4#5
+                                                  #4#3\@ifundefined {lst#2@\...
+<argument> ...endcsname \expandafter {\XKV@tempa }
+                                                  \relax \XKV@srstate {}{@\r...
+
+\XKV@afterfi #1\fi ->\fi #1
+                           
+\XKV@wh@list ...xpandafter \XKV@wh@l@st \else #4#5
+                                                  \expandafter \expandafter ...
+
+\XKV@whilist ...#1,\@nil ,\@nil \@@ #2#3\fi {#4}{}
+                                                  \fi 
+\XKV@s@tk@ys ...kehd \XKV@tfam \XKV@s@tk@ys@ {#3}}
+                                                  \fi \fi \ifXKV@knf \ifXKV@...
+
+\XKV@f@r ...nnil \expandafter \@gobbletwo \else #2
+                                                  \expandafter \XKV@f@r \fi ...
+<argument> style=mypython,
+                           caption={Python script to save the metrics as csv...
+
+\XKV@for@n ...e \expandafter \XKV@f@r \fi #2{#3}#1
+                                                  ,\@nil ,
+\XKV@setkeys ...keys \expandafter {\XKV@resb }{#1}
+                                                  \XKV@usepresetkeys {#1}{pr...
+
+\lstset@ ...pty #1\@empty \else \setkeys {lst}{#1}
+                                                  \fi 
+\\lstlisting@ ...\lst@TestEOLChar {#2}\lstset {#1}
+                                                  \csname \@lst @SetFirstNum...
+l.105 ...file}, frame=single, label={prometheus4}]
+                                                  
+? 
+
+./content/section3.tex:105: Package Listings Error: style mypython undefined.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+\GenericError  ...                                
+                                                  \endgroup 
+<argument> ...endcsname \expandafter {\XKV@tempa }
+                                                  \relax \XKV@srstate {}{@\r...
+
+\XKV@afterfi #1\fi ->\fi #1
+                           
+\XKV@wh@list ...xpandafter \XKV@wh@l@st \else #4#5
+                                                  \expandafter \expandafter ...
+
+\XKV@whilist ...#1,\@nil ,\@nil \@@ #2#3\fi {#4}{}
+                                                  \fi 
+\XKV@s@tk@ys ...kehd \XKV@tfam \XKV@s@tk@ys@ {#3}}
+                                                  \fi \fi \ifXKV@knf \ifXKV@...
+
+\XKV@f@r ...nnil \expandafter \@gobbletwo \else #2
+                                                  \expandafter \XKV@f@r \fi ...
+<argument> style=mypython,
+                           caption={Python script to save the metrics as csv...
+
+\XKV@for@n ...e \expandafter \XKV@f@r \fi #2{#3}#1
+                                                  ,\@nil ,
+\XKV@setkeys ...keys \expandafter {\XKV@resb }{#1}
+                                                  \XKV@usepresetkeys {#1}{pr...
+
+\lstset@ ...pty #1\@empty \else \setkeys {lst}{#1}
+                                                  \fi 
+\\lstlisting@ ...\lst@TestEOLChar {#2}\lstset {#1}
+                                                  \csname \@lst @SetFirstNum...
+l.105 ...file}, frame=single, label={prometheus4}]
+                                                  
+? 
+[10 <./images/PrometheusUI.png>]
+<images/JupyterNotebookServer.png, id=554, 1441.385pt x 623.32875pt>
+File: images/JupyterNotebookServer.png Graphic file (type png)
+<use images/JupyterNotebookServer.png>
+Package pdftex.def Info: images/JupyterNotebookServer.png  used on input line 1
+88.
+(pdftex.def)             Requested size: 455.24408pt x 196.86319pt.
+) [11] [12 <./images/JupyterNotebookServer.png>]
+\openout2 = `content/section4.aux'.
+
+ (./content/section4.tex [13
+
+
+]
+<images/CVLC_H.264.png, id=599, 641.89813pt x 410.53375pt>
+File: images/CVLC_H.264.png Graphic file (type png)
+<use images/CVLC_H.264.png>
+Package pdftex.def Info: images/CVLC_H.264.png  used on input line 72.
+(pdftex.def)             Requested size: 204.85844pt x 131.01642pt.
+<images/CVLC_MJPEG.png, id=600, 753.81625pt x 473.26813pt>
+File: images/CVLC_MJPEG.png Graphic file (type png)
+<use images/CVLC_MJPEG.png>
+Package pdftex.def Info: images/CVLC_MJPEG.png  used on input line 76.
+(pdftex.def)             Requested size: 204.85844pt x 128.61456pt.
+<images/FFmpeg_H.264.png, id=601, 753.31438pt x 474.77374pt>
+File: images/FFmpeg_H.264.png Graphic file (type png)
+<use images/FFmpeg_H.264.png>
+Package pdftex.def Info: images/FFmpeg_H.264.png  used on input line 83.
+(pdftex.def)             Requested size: 204.85844pt x 129.11066pt.
+<images/FFmpeg_MJPEG.png, id=602, 640.3925pt x 542.025pt>
+File: images/FFmpeg_MJPEG.png Graphic file (type png)
+<use images/FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/FFmpeg_MJPEG.png  used on input line 87.
+(pdftex.def)             Requested size: 204.85844pt x 173.38538pt.
+ [14 <./images/CVLC_H.264.png> <./images/CVLC_MJPEG.png> <./images/FFmpeg_H.264
+.png> <./images/FFmpeg_MJPEG.png>]
+<images/MJPG-Streamer.png, id=613, 1285.30188pt x 780.9175pt>
+File: images/MJPG-Streamer.png Graphic file (type png)
+<use images/MJPG-Streamer.png>
+Package pdftex.def Info: images/MJPG-Streamer.png  used on input line 97.
+(pdftex.def)             Requested size: 409.71689pt x 247.9187pt.
+<images/GStreamer.png, id=616, 1445.4pt x 903.375pt>
+File: images/GStreamer.png Graphic file (type png)
+<use images/GStreamer.png>
+Package pdftex.def Info: images/GStreamer.png  used on input line 106.
+(pdftex.def)             Requested size: 409.71689pt x 255.21695pt.
+ [15 <./images/MJPG-Streamer.png> <./images/GStreamer.png>]
+<images/Boxplots/CPU_Usage.png, id=626, 441.14813pt x 384.93813pt>
+File: images/Boxplots/CPU_Usage.png Graphic file (type png)
+<use images/Boxplots/CPU_Usage.png>
+Package pdftex.def Info: images/Boxplots/CPU_Usage.png  used on input line 125.
+
+(pdftex.def)             Requested size: 364.19664pt x 316.94571pt.
+ [16 <./images/Boxplots/CPU_Usage.png>]
+<images/Boxplots/Memory_Usage.png, id=635, 427.09563pt x 438.13687pt>
+File: images/Boxplots/Memory_Usage.png Graphic file (type png)
+<use images/Boxplots/Memory_Usage.png>
+Package pdftex.def Info: images/Boxplots/Memory_Usage.png  used on input line 1
+36.
+(pdftex.def)             Requested size: 364.19664pt x 373.6081pt.
+ [17 <./images/Boxplots/Memory_Usage.png>]
+<images/Boxplots/Network_Transmit_Total.png, id=642, 472.76625pt x 479.29062pt>
+
+File: images/Boxplots/Network_Transmit_Total.png Graphic file (type png)
+<use images/Boxplots/Network_Transmit_Total.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_Total.png  used on in
+put line 148.
+(pdftex.def)             Requested size: 364.19664pt x 369.23044pt.
+ [18 <./images/Boxplots/Network_Transmit_Total.png>]
+<images/Boxplots/Network_Receive_Total.png, id=650, 461.725pt x 483.8075pt>
+File: images/Boxplots/Network_Receive_Total.png Graphic file (type png)
+<use images/Boxplots/Network_Receive_Total.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_Total.png  used on inp
+ut line 160.
+(pdftex.def)             Requested size: 364.19664pt x 381.92198pt.
+) [19 <./images/Boxplots/Network_Receive_Total.png>]
+\openout2 = `content/section5.aux'.
+
+
+(./content/section5.tex) [20
+
+
+] (./content/appendix.tex [21
+
+
+] [22]
+<images/Boxplots/RPi3_CPU_CVLC_H_264.png, id=781, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_CVLC_H_264.png  used on input
+ line 144.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_CVLC_H_264.png, id=782, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_CVLC_H_264.png  used on input
+ line 145.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_CVLC_H_264.png, id=783, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/CPU_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/CPU_CVLC_H_264.png  used on input line
+ 146.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_CPU_CVLC_MJPEG.png, id=784, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_CVLC_MJPEG.png  used on input
+ line 153.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_CVLC_MJPEG.png, id=785, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_CVLC_MJPEG.png  used on input
+ line 154.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_CVLC_MJPEG.png, id=786, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/CPU_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/CPU_CVLC_MJPEG.png  used on input line
+ 155.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_CPU_FFmpeg_H_264.png, id=787, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_FFmpeg_H_264.png  used on inp
+ut line 162.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_FFmpeg_H_264.png, id=788, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_FFmpeg_H_264.png  used on inp
+ut line 163.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_FFmpeg_H_264.png, id=789, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/CPU_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/CPU_FFmpeg_H_264.png  used on input li
+ne 164.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+ [23 <./images/Boxplots/RPi3_CPU_CVLC_H_264.png> <./images/Boxplots/RPi4_CPU_CV
+LC_H_264.png> <./images/Boxplots/CPU_CVLC_H_264.png> <./images/Boxplots/RPi3_CP
+U_CVLC_MJPEG.png> <./images/Boxplots/RPi4_CPU_CVLC_MJPEG.png> <./images/Boxplot
+s/CPU_CVLC_MJPEG.png> <./images/Boxplots/RPi3_CPU_FFmpeg_H_264.png> <./images/B
+oxplots/RPi4_CPU_FFmpeg_H_264.png> <./images/Boxplots/CPU_FFmpeg_H_264.png>]
+<images/Boxplots/RPi3_CPU_FFmpeg_MJPEG.png, id=815, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_FFmpeg_MJPEG.png  used on inp
+ut line 172.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_FFmpeg_MJPEG.png, id=816, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_FFmpeg_MJPEG.png  used on inp
+ut line 173.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_FFmpeg_MJPEG.png, id=817, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/CPU_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/CPU_FFmpeg_MJPEG.png  used on input li
+ne 174.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_CPU_MJPG-Streamer.png, id=818, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_MJPG-Streamer.png  used on in
+put line 181.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_MJPG-Streamer.png, id=819, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_MJPG-Streamer.png  used on in
+put line 182.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_MJPG-Streamer.png, id=820, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/CPU_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/CPU_MJPG-Streamer.png  used on input l
+ine 183.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_CPU_GStreamer_H_264.png, id=821, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_CPU_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_CPU_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_CPU_GStreamer_H_264.png  used on 
+input line 190.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_CPU_GStreamer_H_264.png, id=822, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_CPU_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_CPU_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_CPU_GStreamer_H_264.png  used on 
+input line 191.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/CPU_GStreamer_H_264.png, id=823, 433.62pt x 289.08pt>
+File: images/Boxplots/CPU_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/CPU_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/CPU_GStreamer_H_264.png  used on input
+ line 192.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Memory_CVLC_H_264.png, id=824, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_CVLC_H_264.png  used on in
+put line 201.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_CVLC_H_264.png, id=825, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_CVLC_H_264.png  used on in
+put line 202.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_CVLC_H_264.png, id=826, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/Memory_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/Memory_CVLC_H_264.png  used on input l
+ine 203.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Memory_CVLC_MJPEG.png, id=827, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_CVLC_MJPEG.png  used on in
+put line 210.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_CVLC_MJPEG.png, id=828, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_CVLC_MJPEG.png  used on in
+put line 211.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_CVLC_MJPEG.png, id=829, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/Memory_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Memory_CVLC_MJPEG.png  used on input l
+ine 212.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+ [24
+
+ <./images/Boxplots/RPi3_CPU_FFmpeg_MJPEG.png> <./images/Boxplots/RPi4_CPU_FFmp
+eg_MJPEG.png> <./images/Boxplots/CPU_FFmpeg_MJPEG.png> <./images/Boxplots/RPi3_
+CPU_MJPG-Streamer.png> <./images/Boxplots/RPi4_CPU_MJPG-Streamer.png> <./images
+/Boxplots/CPU_MJPG-Streamer.png> <./images/Boxplots/RPi3_CPU_GStreamer_H_264.pn
+g> <./images/Boxplots/RPi4_CPU_GStreamer_H_264.png> <./images/Boxplots/CPU_GStr
+eamer_H_264.png> <./images/Boxplots/RPi3_Memory_CVLC_H_264.png> <./images/Boxpl
+ots/RPi4_Memory_CVLC_H_264.png> <./images/Boxplots/Memory_CVLC_H_264.png> <./im
+ages/Boxplots/RPi3_Memory_CVLC_MJPEG.png> <./images/Boxplots/RPi4_Memory_CVLC_M
+JPEG.png> <./images/Boxplots/Memory_CVLC_MJPEG.png>]
+<images/Boxplots/RPi3_Memory_FFmpeg_H_264.png, id=850, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_FFmpeg_H_264.png  used on 
+input line 220.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_FFmpeg_H_264.png, id=851, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_FFmpeg_H_264.png  used on 
+input line 221.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_FFmpeg_H_264.png, id=852, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/Memory_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/Memory_FFmpeg_H_264.png  used on input
+ line 222.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Memory_FFmpeg_MJPEG.png, id=853, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_FFmpeg_MJPEG.png  used on 
+input line 229.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_FFmpeg_MJPEG.png, id=854, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_FFmpeg_MJPEG.png  used on 
+input line 230.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_FFmpeg_MJPEG.png, id=855, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/Memory_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Memory_FFmpeg_MJPEG.png  used on input
+ line 231.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Memory_MJPG-Streamer.png, id=856, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_MJPG-Streamer.png  used on
+ input line 238.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_MJPG-Streamer.png, id=857, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_MJPG-Streamer.png  used on
+ input line 239.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_MJPG-Streamer.png, id=858, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_MJPG-Streamer.png Graphic file (type png)
+<use images/Boxplots/Memory_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/Memory_MJPG-Streamer.png  used on inpu
+t line 240.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Memory_GStreamer_H_264.png, id=859, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi3_Memory_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi3_Memory_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Memory_GStreamer_H_264.png  used 
+on input line 247.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Memory_GStreamer_H_264.png, id=860, 433.62pt x 289.08pt>
+File: images/Boxplots/RPi4_Memory_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/RPi4_Memory_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Memory_GStreamer_H_264.png  used 
+on input line 248.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Memory_GStreamer_H_264.png, id=861, 433.62pt x 289.08pt>
+File: images/Boxplots/Memory_GStreamer_H_264.png Graphic file (type png)
+<use images/Boxplots/Memory_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/Memory_GStreamer_H_264.png  used on in
+put line 249.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Receive_CVLC_H_264.png, id=862, 433.62pt x 289.08
+pt>
+File: images/Boxplots/RPi3_Network_Receive_CVLC_H_264.png Graphic file (type pn
+g)
+<use images/Boxplots/RPi3_Network_Receive_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_CVLC_H_264.png  u
+sed on input line 258.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_CVLC_H_264.png, id=863, 433.62pt x 289.08
+pt>
+File: images/Boxplots/RPi4_Network_Receive_CVLC_H_264.png Graphic file (type pn
+g)
+<use images/Boxplots/RPi4_Network_Receive_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_CVLC_H_264.png  u
+sed on input line 259.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_CVLC_H_264.png, id=864, 433.62pt x 289.08pt>
+File: images/Boxplots/Network_Receive_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/Network_Receive_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_CVLC_H_264.png  used o
+n input line 260.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+ [25
+
+ <./images/Boxplots/RPi3_Memory_FFmpeg_H_264.png> <./images/Boxplots/RPi4_Memor
+y_FFmpeg_H_264.png> <./images/Boxplots/Memory_FFmpeg_H_264.png> <./images/Boxpl
+ots/RPi3_Memory_FFmpeg_MJPEG.png> <./images/Boxplots/RPi4_Memory_FFmpeg_MJPEG.p
+ng> <./images/Boxplots/Memory_FFmpeg_MJPEG.png> <./images/Boxplots/RPi3_Memory_
+MJPG-Streamer.png> <./images/Boxplots/RPi4_Memory_MJPG-Streamer.png> <./images/
+Boxplots/Memory_MJPG-Streamer.png> <./images/Boxplots/RPi3_Memory_GStreamer_H_2
+64.png> <./images/Boxplots/RPi4_Memory_GStreamer_H_264.png> <./images/Boxplots/
+Memory_GStreamer_H_264.png> <./images/Boxplots/RPi3_Network_Receive_CVLC_H_264.
+png> <./images/Boxplots/RPi4_Network_Receive_CVLC_H_264.png> <./images/Boxplots
+/Network_Receive_CVLC_H_264.png>]
+<images/Boxplots/RPi3_Network_Receive_CVLC_MJPEG.png, id=884, 433.62pt x 289.08
+pt>
+File: images/Boxplots/RPi3_Network_Receive_CVLC_MJPEG.png Graphic file (type pn
+g)
+<use images/Boxplots/RPi3_Network_Receive_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_CVLC_MJPEG.png  u
+sed on input line 268.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_CVLC_MJPEG.png, id=885, 433.62pt x 289.08
+pt>
+File: images/Boxplots/RPi4_Network_Receive_CVLC_MJPEG.png Graphic file (type pn
+g)
+<use images/Boxplots/RPi4_Network_Receive_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_CVLC_MJPEG.png  u
+sed on input line 269.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_CVLC_MJPEG.png, id=886, 433.62pt x 289.08pt>
+File: images/Boxplots/Network_Receive_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/Network_Receive_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_CVLC_MJPEG.png  used o
+n input line 270.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Receive_FFmpeg_H_264.png, id=887, 433.62pt x 289.
+08pt>
+File: images/Boxplots/RPi3_Network_Receive_FFmpeg_H_264.png Graphic file (type 
+png)
+<use images/Boxplots/RPi3_Network_Receive_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_FFmpeg_H_264.png 
+ used on input line 277.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_FFmpeg_H_264.png, id=888, 433.62pt x 289.
+08pt>
+File: images/Boxplots/RPi4_Network_Receive_FFmpeg_H_264.png Graphic file (type 
+png)
+<use images/Boxplots/RPi4_Network_Receive_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_FFmpeg_H_264.png 
+ used on input line 278.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_FFmpeg_H_264.png, id=889, 433.62pt x 289.08pt>
+
+File: images/Boxplots/Network_Receive_FFmpeg_H_264.png Graphic file (type png)
+<use images/Boxplots/Network_Receive_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_FFmpeg_H_264.png  used
+ on input line 279.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Receive_FFmpeg_MJPEG.png, id=890, 433.62pt x 289.
+08pt>
+File: images/Boxplots/RPi3_Network_Receive_FFmpeg_MJPEG.png Graphic file (type 
+png)
+<use images/Boxplots/RPi3_Network_Receive_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_FFmpeg_MJPEG.png 
+ used on input line 286.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_FFmpeg_MJPEG.png, id=891, 433.62pt x 289.
+08pt>
+File: images/Boxplots/RPi4_Network_Receive_FFmpeg_MJPEG.png Graphic file (type 
+png)
+<use images/Boxplots/RPi4_Network_Receive_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_FFmpeg_MJPEG.png 
+ used on input line 287.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_FFmpeg_MJPEG.png, id=892, 433.62pt x 289.08pt>
+
+File: images/Boxplots/Network_Receive_FFmpeg_MJPEG.png Graphic file (type png)
+<use images/Boxplots/Network_Receive_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_FFmpeg_MJPEG.png  used
+ on input line 288.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Receive_MJPG-Streamer.png, id=893, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi3_Network_Receive_MJPG-Streamer.png Graphic file (type
+ png)
+<use images/Boxplots/RPi3_Network_Receive_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_MJPG-Streamer.png
+  used on input line 295.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_MJPG-Streamer.png, id=894, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi4_Network_Receive_MJPG-Streamer.png Graphic file (type
+ png)
+<use images/Boxplots/RPi4_Network_Receive_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_MJPG-Streamer.png
+  used on input line 296.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_MJPG-Streamer.png, id=895, 433.62pt x 289.08pt
+>
+File: images/Boxplots/Network_Receive_MJPG-Streamer.png Graphic file (type png)
+
+<use images/Boxplots/Network_Receive_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_MJPG-Streamer.png  use
+d on input line 297.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Receive_GStreamer.png, id=896, 433.62pt x 289.08p
+t>
+File: images/Boxplots/RPi3_Network_Receive_GStreamer.png Graphic file (type png
+)
+<use images/Boxplots/RPi3_Network_Receive_GStreamer.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Receive_GStreamer.png  us
+ed on input line 304.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Receive_GStreamer.png, id=897, 433.62pt x 289.08p
+t>
+File: images/Boxplots/RPi4_Network_Receive_GStreamer.png Graphic file (type png
+)
+<use images/Boxplots/RPi4_Network_Receive_GStreamer.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Receive_GStreamer.png  us
+ed on input line 305.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Receive_GStreamer_H_264.png, id=898, 433.62pt x 289.08
+pt>
+File: images/Boxplots/Network_Receive_GStreamer_H_264.png Graphic file (type pn
+g)
+<use images/Boxplots/Network_Receive_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Receive_GStreamer_H_264.png  u
+sed on input line 306.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Transmit_CVLC_H_264.png, id=899, 433.62pt x 289.0
+8pt>
+File: images/Boxplots/RPi3_Network_Transmit_CVLC_H_264.png Graphic file (type p
+ng)
+<use images/Boxplots/RPi3_Network_Transmit_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_CVLC_H_264.png  
+used on input line 315.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_CVLC_H_264.png, id=900, 433.62pt x 289.0
+8pt>
+File: images/Boxplots/RPi4_Network_Transmit_CVLC_H_264.png Graphic file (type p
+ng)
+<use images/Boxplots/RPi4_Network_Transmit_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_CVLC_H_264.png  
+used on input line 316.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_CVLC_H_264.png, id=901, 433.62pt x 289.08pt>
+File: images/Boxplots/Network_Transmit_CVLC_H_264.png Graphic file (type png)
+<use images/Boxplots/Network_Transmit_CVLC_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_CVLC_H_264.png  used 
+on input line 317.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+
+[26
+
+ <./images/Boxplots/RPi3_Network_Receive_CVLC_MJPEG.png> <./images/Boxplots/RPi
+4_Network_Receive_CVLC_MJPEG.png> <./images/Boxplots/Network_Receive_CVLC_MJPEG
+.png> <./images/Boxplots/RPi3_Network_Receive_FFmpeg_H_264.png> <./images/Boxpl
+ots/RPi4_Network_Receive_FFmpeg_H_264.png> <./images/Boxplots/Network_Receive_F
+Fmpeg_H_264.png> <./images/Boxplots/RPi3_Network_Receive_FFmpeg_MJPEG.png> <./i
+mages/Boxplots/RPi4_Network_Receive_FFmpeg_MJPEG.png> <./images/Boxplots/Networ
+k_Receive_FFmpeg_MJPEG.png> <./images/Boxplots/RPi3_Network_Receive_MJPG-Stream
+er.png> <./images/Boxplots/RPi4_Network_Receive_MJPG-Streamer.png> <./images/Bo
+xplots/Network_Receive_MJPG-Streamer.png> <./images/Boxplots/RPi3_Network_Recei
+ve_GStreamer.png> <./images/Boxplots/RPi4_Network_Receive_GStreamer.png> <./ima
+ges/Boxplots/Network_Receive_GStreamer_H_264.png>]
+<images/Boxplots/RPi3_Network_Transmit_CVLC_MJPEG.png, id=921, 433.62pt x 289.0
+8pt>
+File: images/Boxplots/RPi3_Network_Transmit_CVLC_MJPEG.png Graphic file (type p
+ng)
+<use images/Boxplots/RPi3_Network_Transmit_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_CVLC_MJPEG.png  
+used on input line 324.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_CVLC_MJPEG.png, id=922, 433.62pt x 289.0
+8pt>
+File: images/Boxplots/RPi4_Network_Transmit_CVLC_MJPEG.png Graphic file (type p
+ng)
+<use images/Boxplots/RPi4_Network_Transmit_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_CVLC_MJPEG.png  
+used on input line 325.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_CVLC_MJPEG.png, id=923, 433.62pt x 289.08pt>
+File: images/Boxplots/Network_Transmit_CVLC_MJPEG.png Graphic file (type png)
+<use images/Boxplots/Network_Transmit_CVLC_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_CVLC_MJPEG.png  used 
+on input line 326.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Transmit_FFmpeg_H_264.png, id=924, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi3_Network_Transmit_FFmpeg_H_264.png Graphic file (type
+ png)
+<use images/Boxplots/RPi3_Network_Transmit_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_FFmpeg_H_264.png
+  used on input line 333.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_FFmpeg_H_264.png, id=925, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi4_Network_Transmit_FFmpeg_H_264.png Graphic file (type
+ png)
+<use images/Boxplots/RPi4_Network_Transmit_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_FFmpeg_H_264.png
+  used on input line 334.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_FFmpeg_H_264.png, id=926, 433.62pt x 289.08pt
+>
+File: images/Boxplots/Network_Transmit_FFmpeg_H_264.png Graphic file (type png)
+
+<use images/Boxplots/Network_Transmit_FFmpeg_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_FFmpeg_H_264.png  use
+d on input line 335.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Transmit_FFmpeg_MJPEG.png, id=927, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi3_Network_Transmit_FFmpeg_MJPEG.png Graphic file (type
+ png)
+<use images/Boxplots/RPi3_Network_Transmit_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_FFmpeg_MJPEG.png
+  used on input line 342.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_FFmpeg_MJPEG.png, id=928, 433.62pt x 289
+.08pt>
+File: images/Boxplots/RPi4_Network_Transmit_FFmpeg_MJPEG.png Graphic file (type
+ png)
+<use images/Boxplots/RPi4_Network_Transmit_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_FFmpeg_MJPEG.png
+  used on input line 343.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_FFmpeg_MJPEG.png, id=929, 433.62pt x 289.08pt
+>
+File: images/Boxplots/Network_Transmit_FFmpeg_MJPEG.png Graphic file (type png)
+
+<use images/Boxplots/Network_Transmit_FFmpeg_MJPEG.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_FFmpeg_MJPEG.png  use
+d on input line 344.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Transmit_MJPG-Streamer.png, id=930, 433.62pt x 28
+9.08pt>
+File: images/Boxplots/RPi3_Network_Transmit_MJPG-Streamer.png Graphic file (typ
+e png)
+<use images/Boxplots/RPi3_Network_Transmit_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_MJPG-Streamer.pn
+g  used on input line 351.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_MJPG-Streamer.png, id=931, 433.62pt x 28
+9.08pt>
+File: images/Boxplots/RPi4_Network_Transmit_MJPG-Streamer.png Graphic file (typ
+e png)
+<use images/Boxplots/RPi4_Network_Transmit_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_MJPG-Streamer.pn
+g  used on input line 352.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_MJPG-Streamer.png, id=932, 433.62pt x 289.08p
+t>
+File: images/Boxplots/Network_Transmit_MJPG-Streamer.png Graphic file (type png
+)
+<use images/Boxplots/Network_Transmit_MJPG-Streamer.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_MJPG-Streamer.png  us
+ed on input line 353.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi3_Network_Transmit_GStreamer_H_264.png, id=933, 433.62pt x 
+289.08pt>
+File: images/Boxplots/RPi3_Network_Transmit_GStreamer_H_264.png Graphic file (t
+ype png)
+<use images/Boxplots/RPi3_Network_Transmit_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi3_Network_Transmit_GStreamer_H_264.
+png  used on input line 360.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/RPi4_Network_Transmit_GStreamer_H_264.png, id=934, 433.62pt x 
+289.08pt>
+File: images/Boxplots/RPi4_Network_Transmit_GStreamer_H_264.png Graphic file (t
+ype png)
+<use images/Boxplots/RPi4_Network_Transmit_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/RPi4_Network_Transmit_GStreamer_H_264.
+png  used on input line 361.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+<images/Boxplots/Network_Transmit_GStreamer_H_264.png, id=935, 433.62pt x 289.0
+8pt>
+File: images/Boxplots/Network_Transmit_GStreamer_H_264.png Graphic file (type p
+ng)
+<use images/Boxplots/Network_Transmit_GStreamer_H_264.png>
+Package pdftex.def Info: images/Boxplots/Network_Transmit_GStreamer_H_264.png  
+used on input line 362.
+(pdftex.def)             Requested size: 136.5746pt x 91.04744pt.
+) [27 <./images/Boxplots/RPi3_Network_Transmit_CVLC_H_264.png> <./images/Boxplo
+ts/RPi4_Network_Transmit_CVLC_H_264.png> <./images/Boxplots/Network_Transmit_CV
+LC_H_264.png> <./images/Boxplots/RPi3_Network_Transmit_CVLC_MJPEG.png> <./image
+s/Boxplots/RPi4_Network_Transmit_CVLC_MJPEG.png> <./images/Boxplots/Network_Tra
+nsmit_CVLC_MJPEG.png> <./images/Boxplots/RPi3_Network_Transmit_FFmpeg_H_264.png
+> <./images/Boxplots/RPi4_Network_Transmit_FFmpeg_H_264.png> <./images/Boxplots
+/Network_Transmit_FFmpeg_H_264.png> <./images/Boxplots/RPi3_Network_Transmit_FF
+mpeg_MJPEG.png> <./images/Boxplots/RPi4_Network_Transmit_FFmpeg_MJPEG.png> <./i
+mages/Boxplots/Network_Transmit_FFmpeg_MJPEG.png> <./images/Boxplots/RPi3_Netwo
+rk_Transmit_MJPG-Streamer.png> <./images/Boxplots/RPi4_Network_Transmit_MJPG-St
+reamer.png> <./images/Boxplots/Network_Transmit_MJPG-Streamer.png>] [28 <./imag
+es/Boxplots/RPi3_Network_Transmit_GStreamer_H_264.png> <./images/Boxplots/RPi4_
+Network_Transmit_GStreamer_H_264.png> <./images/Boxplots/Network_Transmit_GStre
+amer_H_264.png>]
+(./project.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 67--71
+[]\T1/futs/m/n/12 Wikipedia con-trib-u-tors, ``Mul-ti-me-dia frame-work --- Wik
+ipedia, the free
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 67--71
+\T1/futs/m/n/12 en-cy-clo-pe-dia,'' []$https : / / en . wikipedia . org / w / i
+ndex . php ? title = Multimedia _ framework &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+[]$\T1/futs/m/n/12 https : / / en . wikipedia . org / w / index . php ? title =
+ VLC _ media _ player & oldid = 979629507$[],
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 86--90
+[]\T1/futs/m/n/12 T. Vedika. (2020) Mjpeg linux video stream-ing and
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 86--90
+\T1/futs/m/n/12 record-ing over http. [On-line]. Avail-able: []$https : / / tec
+hvedika . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+[]\T1/futs/m/n/12 Wikipedia con-trib-u-tors, ``Prometheus (soft-ware) --- Wikip
+edia, the free
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+\T1/futs/m/n/12 en-cy-clo-pe-dia,'' []$https : / / en . wikipedia . org / w / i
+ndex . php ? title = Prometheus _ (software )
+ []
+
+) [29
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+ (./project.aux (./content/section.aux) (./content/section1.aux)
+(./content/section2.aux) (./content/section3.aux) (./content/section4.aux)
+(./content/section5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `project.out' has not changed.
+(rerunfilecheck)             Checksum: A4A8F526170ADC70EA7C60D04446876D;2454.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+ ) 
+Here is how much of TeX's memory you used:
+ 45891 strings out of 480608
+ 1020290 string characters out of 5903630
+ 1724270 words of memory out of 5000000
+ 60297 multiletter control sequences out of 15000+600000
+ 752738 words of font info for 181 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 74i,9n,106p,979b,1925s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on project.pdf (36 pages, 8255365 bytes).
+PDF statistics:
+ 1087 PDF objects out of 1200 (max. 8388607)
+ 842 compressed objects within 9 object streams
+ 363 named destinations out of 1000 (max. 500000)
+ 848 words of extra memory for PDF output out of 10000 (max. 10000000)
+

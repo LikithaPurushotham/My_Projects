@@ -1,0 +1,40 @@
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces System Architecture\relax }}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {2}{\ignorespaces cAdvisor\relax }}{8}{figure.caption.8}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Prometheus UI\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Jupyter Notebook Server\relax }}{12}{figure.caption.10}%
+\contentsline {figure}{\numberline {5}{\ignorespaces CVLC H.264\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {6}{\ignorespaces CVLC MJPEG\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {7}{\ignorespaces FFmpeg H.264\relax }}{14}{figure.caption.15}%
+\contentsline {figure}{\numberline {8}{\ignorespaces FFmpeg MJPEG\relax }}{14}{figure.caption.15}%
+\contentsline {figure}{\numberline {9}{\ignorespaces MJPG-Streamer\relax }}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {10}{\ignorespaces GStreamer H.264\relax }}{15}{figure.caption.17}%
+\contentsline {figure}{\numberline {11}{\ignorespaces CPU Utilization\relax }}{16}{figure.caption.18}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Memory Utilization\relax }}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Network Transmit Total\relax }}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Network Receive Total\relax }}{19}{figure.caption.21}%
+\contentsline {figure}{\numberline {15}{\ignorespaces CPU CVLC H.264\relax }}{23}{figure.caption.29}%
+\contentsline {figure}{\numberline {16}{\ignorespaces CPU CVLC MJPEG\relax }}{23}{figure.caption.30}%
+\contentsline {figure}{\numberline {17}{\ignorespaces CPU FFmpeg H.264\relax }}{23}{figure.caption.31}%
+\contentsline {figure}{\numberline {18}{\ignorespaces CPU FFmpeg MJPEG\relax }}{24}{figure.caption.32}%
+\contentsline {figure}{\numberline {19}{\ignorespaces CPU MJPG-Streamer\relax }}{24}{figure.caption.33}%
+\contentsline {figure}{\numberline {20}{\ignorespaces CPU GStreamer H.264\relax }}{24}{figure.caption.34}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Memory CVLC H.264\relax }}{24}{figure.caption.35}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Memory CVLC MJPEG\relax }}{24}{figure.caption.36}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Memory FFmpeg H.264\relax }}{25}{figure.caption.37}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Memory FFmpeg MJPEG\relax }}{25}{figure.caption.38}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Memory MJPG-Streamer\relax }}{25}{figure.caption.39}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Memory GStreamer H.264\relax }}{25}{figure.caption.40}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Network Receive CVLC H.264\relax }}{25}{figure.caption.41}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Network Receive CVLC MJPEG\relax }}{26}{figure.caption.42}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Network Receive FFmpeg H.264\relax }}{26}{figure.caption.43}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Network Receive FFmpeg MJPEG\relax }}{26}{figure.caption.44}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Network Receive MJPG-Streamer\relax }}{26}{figure.caption.45}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Network Receive GStreamer H.264\relax }}{26}{figure.caption.46}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Network Transmit CVLC H.264\relax }}{27}{figure.caption.47}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Network Transmit CVLC MJPEG\relax }}{27}{figure.caption.48}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Network Transmit FFmpeg H.264\relax }}{27}{figure.caption.49}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Network Transmit FFmpeg MJPEG\relax }}{27}{figure.caption.50}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Network Transmit MJPG-Streamer\relax }}{27}{figure.caption.51}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Network Transmit GStreamer H.264\relax }}{28}{figure.caption.52}%

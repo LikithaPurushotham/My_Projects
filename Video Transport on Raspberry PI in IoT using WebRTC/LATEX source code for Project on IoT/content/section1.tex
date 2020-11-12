@@ -1,0 +1,12 @@
+\section{Introduction}
+The rapid growth in the technology and information sector in recent years has resulted in a wide range of connectivity for various electronic and heterogeneous devices that can communicate effortlessly with each other over the Internet. Due to this technological improvement, termed as the Internet of Things (IoT), has made a gateway for various industrial sectors to inculcate IoT with varied applications that can rule over the Internet. \par
+
+This technological improvement in recent years, especially in the Healthcare sector, has made video streaming in real-time improve our lives in tangible ways where one can monitor the other irrespective of the location. To achieve this goal, current multimedia streaming hardware devices are typically expensive. In order to provide improved and reliable services, we require low-cost hardware devices with easy deployment and high scalability that can be easily integrated into the already existing IoT networks. In our project, we use devices such as single-board computers (SBC) that enables video streaming using the Web Real-Time Communication (WebRTC) framework and peer-to-peer connection. \par
+
+Our system built on Raspberry Pi (RPi) is completely packed into Docker Containers, which is easy to deploy using effective and readily available ARM architecture. It enables us to receive the video stream from the attached camera node and send it to the multimedia framework, which encodes, decodes, and sends it to the receiving device using a real-time communication protocol (RTP). We document the development of this system on RPi4 in this project paper.
+
+\subsection{Goals} 
+Our goal is to determine the best multimedia framework supported on the RPi by comparing the utilization of working video streams on RPi3 and RPi4 in terms of CPU usage, memory usage, and network throughput.
+
+\subsection{Related Work}
+Lukas and Vanessa’s \cite{lv} "WebRTC Surveillance Prototype on a Raspberry Pi" was the base for our project, where they were able to set up a video surveillance system based on peer-to-peer communication, which is deployed on a RPi3. This system support video streaming using the WebRTC framework and aiortc. They also compared different multimedia frameworks and codecs and concluded FFmpeg and GStreamer as the best using H.264 and Vp8 respectively. Based on this, we try to build the system on RPi4 and figure out the major difference in using RPi3 and RPi4 in terms of video streaming quality and resource utilization.

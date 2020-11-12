@@ -1,0 +1,37 @@
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\contentsline {section}{List of Figures}{IV}{section*.1}%
+\contentsline {section}{List of Tables}{VI}{section*.2}%
+\contentsline {section}{Listings}{VII}{section*.3}%
+\contentsline {section}{\numberline {I}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {\mbox {I-A}}Goals}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {\mbox {I-B}}Related Work}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {II}Foundations for Our System}{3}{section.2}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}Hardware Technologies}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-A}1}Raspberry Pi}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-A}2}Raspberry Pi 3 vs Raspberry Pi 4}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}Software Technologies}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}1}WebRTC}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}2}Docker}{4}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {\mbox {II-C}}Multimedia Frameworks}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}1}CVLC}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}2}FFmpeg}{5}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}3}MJPG-Streamer}{5}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {\mbox {II-C}4}GStreamer}{5}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {\mbox {II-D}}Video Codecs}{5}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {\mbox {II-D}1}H.264}{5}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-D}2}MJPEG}{5}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {\mbox {II-E}}Tools}{6}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {\mbox {II-E}1}cAdvisor}{6}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {\mbox {II-E}2}Prometheus}{6}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {\mbox {II-E}3}Jupyter Notebook}{6}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {\mbox {II-F}}Versions of Hardware and Software Technologies}{6}{subsection.2.6}%
+\contentsline {section}{\numberline {III}System Architecture and its Working}{7}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Proposed Architecture for Video Streaming with Raspberry Pi's}{7}{subsection.3.1}%
+\contentsline {section}{\numberline {IV}Evaluation of Multimedia Frameworks and Codecs}{13}{section.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Latency, Quality, and Resolution of Multimedia Frameworks and Codecs}{13}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {\mbox {IV-A}1}Video Quality and Resolution of Working Video Streams}{14}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Utilization Comparison of Working Video Streams}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {V}Conclusion and Future Work}{20}{section.5}%
+\contentsline {section}{Appendix}{21}{section*.22}%
+\contentsline {section}{Bibliography}{29}{section*.53}%

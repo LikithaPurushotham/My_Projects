@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: project.aux
+A level-1 auxiliary file: content/section.aux
+A level-1 auxiliary file: content/section1.aux
+A level-1 auxiliary file: content/section2.aux
+A level-1 auxiliary file: content/section3.aux
+A level-1 auxiliary file: content/section4.aux
+A level-1 auxiliary file: content/section5.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: literature/bib.bib
+Warning--entry type for "lv" isn't style-file defined
+--line 60 of file literature/bib.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Name 1 in "Lukas Klinger, and Vanessa Christine Krolikowsky" has a comma at the end for entry lv
+while executing---line 2403 of file IEEEtran.bst
+
+Done.
+You've used 17 entries,
+            4087 wiz_defined-function locations,
+            901 strings with 9611 characters,
+and the built_in function-call counts, 6246 in all, are:
+= -- 503
+> -- 70
+< -- 0
++ -- 35
+- -- 17
+* -- 196
+:= -- 1173
+add.period$ -- 33
+call.type$ -- 17
+change.case$ -- 22
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 507
+empty$ -- 605
+format.name$ -- 18
+if$ -- 1365
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 125
+newline$ -- 92
+num.names$ -- 16
+pop$ -- 365
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 495
+stack$ -- 0
+substring$ -- 20
+swap$ -- 300
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 17
+warning$ -- 0
+while$ -- 16
+width$ -- 19
+write$ -- 178
+(There was 1 error message)

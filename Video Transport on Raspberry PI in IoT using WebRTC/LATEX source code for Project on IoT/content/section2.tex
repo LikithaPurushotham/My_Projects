@@ -1,0 +1,121 @@
+\section{Foundations for Our System}
+
+%subsection1---------
+\subsection{Hardware Technologies}
+
+\subsubsection{Raspberry Pi}
+The RPi\footnote{\url{https://en.wikipedia.org/wiki/Raspberry_Pi}} is a series of small SBCs which operates in an open-source ecosystem that features a Broadcom system on chip with integrated ARM architecture supported central processing unit (CPU) which is typically used in mobile phones and tablets. Due to its low-cost and availability, it provides high performance that puts the power of computing and digital making easier all over the world \cite{wiki}.\par
+
+With various versions of RPi and evolved features, it is more widely used in many areas such as weather monitoring, learning programming skills, building hardware projects, home automation, and applications in various industries. It is a small and cheap computer that runs Linux but also provides a set of GPIO (general purpose input/output) pins that control the electronic components for physical computing and exploring the IoT \cite{Rpi}.
+
+\subsubsection{Raspberry Pi 3 vs Raspberry Pi 4}
+The RPi hardware has evolved through several versions that feature variations in the type of the CPU, memory capacity, networking support, and peripheral-device support \cite{wiki}. \par
+
+Raspberry Pi 4: 
+RPi version 4 has a lot of advantages from the previous models. The processing speed, multimedia performance, connectivity, memory speeds, and even the secure digital (SD) card read and write speeds are much faster, and the system as a whole is robust enough. It is available with three different memory sizes - 1GB, 2GB, and 4GB, support Dual 4k with USB 3.0 - to be the right fit for any project \cite{PI}. \par
+
+Its main features are \cite{pi4vs3}: 
+\begin{itemize}
+	\item Processor: Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
+	\item Memory: 1 GB, 2 GB, or 4 GB LPDDR4 SDRAM
+	\item Connectivity: 802.11ac Wi-Fi, Gigabit Ethernet, Bluetooth 5.0
+	\item Access: 40-pin GPIO header
+	\item Video \& Sound: 2 x micro-HDMI, 3.5 mm analogue audio-video jack
+	\item Multimedia: H.265 4Kp60, H.264 1080p60
+	\item SD card support: microSD card
+	\item Input power: 5V via USB type-C up to 3A and GPIO header up to 3A
+\end{itemize}
+
+Raspberry Pi 3:
+Although RPi4 has extensible features, RPi3 is still on the go for its features like a full-size HDMI Port, More accessories (for now), and Gigabit Ethernet over USB 2.0. \par
+
+Its main features are \cite{pi4vs3}:
+\begin{itemize}
+	\item Processor: Broadcom BCM2837B0 quad-core A53 (ARMv8) 64-bit @ 1.4GHz
+	\item Memory: 1 GB LPDDR2 SDRAM
+	\item Connectivity: 802.11ac Wi-Fi, 300Mbps Ethernet, Bluetooth 4.0
+	\item Access: 40-pin GPIO header
+	\item Video \& Sound: Full size – HDMI, 3.5 mm analogue audio-video jack
+	\item Multimedia: H.264 \& MPEG-4 1080p30
+	\item SD card: microSD card
+	\item Input power: 5V via micro USB up to2.5A and GPIO header up to 3A
+\end{itemize} 
+
+%subsection2----------
+\subsection{Software Technologies}
+
+\subsubsection{WebRTC}
+WebRTC is an open-source application that allows web browsers and mobile applications to communicate, transmit audio, video, and other generic data seamlessly through an Application Programming Interface (API) using a RTP. With WebRTC, most of the recent web browsers have built-in (Real-Time Communication) RTC functionality, which can find the best path for peer-2-peer connection, concealment of package loss, and echo cancellation during transmission, and built-in codecs for audio and video (U. Krieger: KTR-Mobicom-M-E, marcel Großmann), \cite{webrtc}. \par
+
+There are three major APIs used in WebRTC (U. Krieger: KTR-Mobicom-M-E, marcel Großmann), \cite{webrtc}:
+\begin{itemize}
+	\item GetUserMedia: This enables the device to gain access to the camera, microphone, or screen of the device.
+	\item peerConnection: This encodes and decodes the media and send it over the network, and takes care of the (Network Address Translation) NAT traversal.
+	\item DataChannel: This creates the channel, sends  arbitrary data directly between the browsers with low latency. 
+\end{itemize}
+
+In sending of data between peers, the client browser M first sends a GET request to the web server, the web server confirms the request with Ok. Client browser L sends a GET request to the web server, which in succession it replies with Ok. The Client browser M negotiates with client browser L for media communication using a session description protocol (SDP). Once this negotiation is established, the web server creates a peer-to-peer connection between the two clients (U. Krieger: KTR-Mobicom-M-E, marcel Großmann), \cite{webrtc}. \par
+
+In our project, WebRTC plays a very important role as the main goal is to stream video from a camera node over a WebRTC connection. The main advantage over the other (Internet Protocol) IP based video surveillance systems is that the network structure need not be configured manually nor the camera node or client require information before connecting, whereas in the case of IP based systems, they require cameras to be accessible via known public IP address or route video traffic through a server. Using WebRTC and peer-to-peer connection, traffic is sent between both peers directly if possible and routing is done dynamically. This allows for the flexible deployment of camera nodes with less or no configuration.
+
+\subsubsection{Docker}
+Docker is an OS-Level virtualization technology used to run a so-called container on the host. Containers are lightweight when compared to virtual machines that use lightweight kernel namespaces and runs on Build, Ship, and Run Paradigm. The main idea of containers is to collect all the tools and libraries necessary to run a specific piece of software, and then isolating that software from the rest of the system. Because containers are not full-on virtual machines, they are efficient, and Docker which is lightweight, standalone, is a leader in making containers easy to work \cite{8}. \par
+
+In our project, we use Docker on RPi4 of 4GB RAM with a quad-core ARM processor of 1.5GHz to pack all the components into containers, which helps the system to be portable, modular and make deployment easy without any complicated steps. \par
+
+We pull the image \textit{arm64v8/debian:buster-backports} from the registry to build the video streaming image. Then we run the video streaming containers.
+
+%subsection3----------
+\subsection{Multimedia Frameworks}
+"A multimedia framework\footnote{\url{https://en.wikipedia.org/wiki/Multimedia_framework}} is a software framework that handles media on a computer and through a network \cite{mf}." Various multimedia frameworks are available, but we will only look at ones that are peculiar to our project.
+
+\subsubsection{CVLC}
+CVLC is an interfaceless VLC player \cite{cvlc}. It is an open-source multimedia framework, which is built-in with encoding, decoding, and transcoding libraries \cite{cvlc1}.
+
+\subsubsection{FFmpeg}
+FFmpeg\footnote{\url{http://ffmpeg.org/about.html}} is the term for Fast Forward MPEG, which can decode, encode, transcode, mux, demux, stream, filter, and play video streams.
+
+\subsubsection{MJPG-Streamer}
+MJPG-Streamer\footnote{\url{https://techvedika.com/mjpeg-linux-video-streaming-and-recording-over-http/}} is a command-line application. It copies JPEG frames from multiple inputs to multiple outputs. It streams a sequence of JPEG frames \cite{mjpgstreamer}. 
+
+\subsubsection{GStreamer}
+GStreamer\footnote{\url{https://en.wikipedia.org/wiki/GStreamer}} is an open-source multimedia framework that uses a pipeline-based workflow to combine different media processing systems. It reads files in one format, processes them, and exports them in another format \cite{gstreamer}. 
+
+In our project, we use these four multimedia frameworks. For CVLC, and FFmpeg, we use two codecs H.264 and MJPEG, to encode the video stream. And for GStreamer we use H.264. The comparison of the multimedia frameworks and codecs is discussed in Sec. \ref{sec:4}
+
+%subsection4----------
+\subsection{Video Codecs}
+"A video codec\footnote{\url{https://en.wikipedia.org/wiki/Video_codec}} is software or hardware that compresses and decompresses digital video \cite{videocodec}."
+
+\subsubsection{H.264}
+H.264\footnote{\url{https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=74735}} is one of the standard video codecs which uses the DVD standard (MPEG-2) for the quality video image. It is also known for its maximum bitrate and resolution, which is good support for 4k and up to 8k Ultra High-Definition \cite{h264}.
+
+\subsubsection{MJPEG}
+MJPEG\footnote{\url{https://techvedika.com/mjpeg-linux-video-streaming-and-recording-over-http/}}, which is also known as Motion JPEG is a stream of JPEG images transferred over https protocol. The main advantage of MJPEG is that the installation of client software is not necessary on a remote host. The video stream can be seen in any software that supports MJPEG streaming (E.g., Google Chrome, Mozilla Firefox, VLC) \cite{mjpgstreamer}.
+
+%subsection5----------
+\newpage
+\subsection{Tools}
+
+\subsubsection{cAdvisor}
+cAdvisor\footnote{\url{https://github.com/google/cadvisor}} also known as Container Advisor provides resource usage and performance traits of running containers. It collects, aggregates, processes, and exports information about running containers. It monitors complete resource usage and network statistics \cite{cadvisor}.
+
+\subsubsection{Prometheus}
+Prometheus\footnote{\url{https://en.wikipedia.org/wiki/Prometheus_(software)}} is an open-source software used for monitoring and alerting. It records metrics in real-time using predefined queries \cite{prometheus}. \par
+
+\subsubsection{Jupyter Notebook}
+"The Jupyter Notebook\footnote{\url{https://jupyter.org}} is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text \cite{jn}."
+
+%subsection6----------
+\subsection{Versions of Hardware and Software Technologies}
+The versions of hardware \& software technologies and tools we used in our project are listed below:
+\begin{itemize}
+   \item Raspberry Pi 3: Linux Black-pearl 4.19.58-hypriotos-v8, aarch64 1.2GHz ARM
+   \item Raspberry Pi 4: Linux Black-pearl 4.19.102-v8, aarch64 1.5GHz ARM
+   \item Docker: v18.09.7
+   \item cAdvisor: v0.36.0
+   \item Prometheus: v2.21.0
+   \item Jupyter Notebook: v6.1.3
+   \item Frameworks: arm64v8/debian:buster-backports v0.11
+   \item Janus (WebRTC server): v0.10.3
+\end{itemize}
