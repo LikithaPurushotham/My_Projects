@@ -1,5 +1,0 @@
-rootProject.name = 'idistrsys'
-
-include ':client'
-include ':server'
-include ':shared'

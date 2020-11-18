@@ -1,0 +1,36 @@
+de/uniba/rz/search/SearchWebService.java
+ de.uniba.rz.search.SearchWebService
+de/uniba/rz/backend/SearchMessage.java
+ de.uniba.rz.backend.SearchMessage
+de/uniba/rz/backend/JaxWSImplService.java
+ de.uniba.rz.backend.JaxWSImplService
+de/uniba/rz/backend/SearchMessageResponse.java
+ de.uniba.rz.backend.SearchMessageResponse
+de/uniba/rz/backend/Priority.java
+ de.uniba.rz.backend.Priority
+de/uniba/rz/backend/ObjectFactory.java
+ de.uniba.rz.backend.ObjectFactory
+de/uniba/rz/backend/SendMessage.java
+ de.uniba.rz.backend.SendMessage
+de/uniba/rz/backend/Type.java
+ de.uniba.rz.backend.Type
+de/uniba/rz/search/SearchWebServiceImpl.java
+ de.uniba.rz.search.SearchWebServiceImpl
+de/uniba/rz/backend/JaxWsInterface.java
+ de.uniba.rz.backend.JaxWsInterface
+de/uniba/rz/search/exceptions/TypeNotAvailableException.java
+ de.uniba.rz.search.exceptions.TypeNotAvailableException
+de/uniba/rz/backend/Ticket.java
+ de.uniba.rz.backend.Ticket
+de/uniba/rz/backend/TicketSearch.java
+ de.uniba.rz.backend.TicketSearch
+de/uniba/rz/backend/Message.java
+ de.uniba.rz.backend.Message
+de/uniba/rz/backend/SendMessageResponse.java
+ de.uniba.rz.backend.SendMessageResponse
+de/uniba/rz/search/SearchMain.java
+ de.uniba.rz.search.SearchMain
+de/uniba/rz/backend/Status.java
+ de.uniba.rz.backend.Status
+de/uniba/rz/backend/package-info.java
+ de.uniba.rz.backend.package-info
