@@ -1,2 +1,2 @@
-# group9
+# Beverage Service Management using Docker and Kubernetes
 
