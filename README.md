@@ -2,7 +2,7 @@
 
 The Rapid development in the field of internet and tehnology has resulted in a wide range of connectivity for various electronic and heterogeneous devices that can communicate effortlessly with each other over the internet.This is what is called as 'Internet of Things'. IoT is changing our life by making things smarter and easier than ever before.
 
-This technological improvement has made a gateway for various different industrial sectors including Healthcare inculcate IoT with varied applications leading to new possibilities.\\ \\
+This technological improvement has made a gateway for various different industrial sectors including Healthcare inculcate IoT with varied applications leading to new possibilities.
 
 With this aim,several healthcare frameworks have been developed based on Internet of Healthcare Technology that can provide improved and reliable services with reduced cost,highly energy efficient and scalable solutions to meet the shortage of healthcare workforce and help in prevention of diseases,treatement and cure.
 
